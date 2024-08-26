@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-24 19:25:31+0000\n"
+"PO-Revision-Date: 2024-08-21 22:25:13+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -72,6 +72,10 @@ msgstr "Retirer de l’ensemble du site"
 #: modules/floating-buttons/classes/render/contact-buttons-render-base.php:99
 msgid "Close Links Popup"
 msgstr "Liens de fermeture de fenêtre modale"
+
+#: modules/floating-buttons/classes/render/contact-buttons-render-base.php:88
+msgid "Toggle Links Popup"
+msgstr "Permuter la fenêtre surgissante de liens"
 
 #: modules/floating-buttons/classes/render/contact-buttons-core-render.php:57
 msgid "Links window"
@@ -205,6 +209,10 @@ msgstr "Évènements de l’éditeur Elementor"
 #: modules/announcements/module.php:97
 msgid "Discover your new superpowers "
 msgstr "Découvrez vos nouveaux superpouvoirs "
+
+#: includes/widgets/image.php:368
+msgid "Scale Down"
+msgstr "Réduire la dimension"
 
 #: includes/editor-templates/panel.php:152
 msgid "Copy and Share Link"
@@ -3728,6 +3736,10 @@ msgstr "La connexion à la bibliothèque a échoué. Veuillez essayer de recharg
 #: core/common/modules/connect/apps/base-app.php:84
 msgid "Connected as %s"
 msgstr "Connecté·e en tant que %s"
+
+#: core/settings/editor-preferences/model.php:80
+msgid "Auto detect"
+msgstr "Détection automatique"
 
 #: core/settings/editor-preferences/model.php:53
 msgid "Preferences"

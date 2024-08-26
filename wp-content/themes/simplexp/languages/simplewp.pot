@@ -1,0 +1,385 @@
+# Copyright (C) 2024 Riccardo Brivio
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: simplexp 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/simplexp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-17T13:55:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: simplexp\n"
+
+#. Theme Name of the theme
+msgid "simplexp"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.webprobe.it/simplexp"
+msgstr ""
+
+#. Description of the theme
+msgid "simplexp is a simple, lightweight, and fast responsive starter theme for creating custom websites and e-commerce stores. Customize font, colors, header, and footer easily. Features include customizable header with transparency effect, two menus with WooCommerce integration, animations. Comes with block patterns for quick content creation. Fully responsive and SEO-friendly. For more information about setup and installation, read the readme.txt file."
+msgstr ""
+
+#. Author of the theme
+msgid "Riccardo Brivio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.webprobe.it"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! This page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:25
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#: comments.php:12
+msgid "Do not load this page directly!"
+msgstr ""
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:24
+msgid "1 Response"
+msgstr ""
+
+#: comments.php:24
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:46
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:60
+msgid "Name *"
+msgstr ""
+
+#: comments.php:61
+msgid "Email *"
+msgstr ""
+
+#: comments.php:62
+msgid "Website"
+msgstr ""
+
+#: comments.php:64
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:65
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments RSS Feed"
+msgstr ""
+
+#: customizer/customizer.php:5
+msgid "Header Setup"
+msgstr ""
+
+#: customizer/customizer.php:17
+msgid "Menu & Logo Position"
+msgstr ""
+
+#: customizer/customizer.php:23
+msgid "Sinistra"
+msgstr ""
+
+#: customizer/customizer.php:24
+msgid "Centro"
+msgstr ""
+
+#: customizer/customizer.php:25
+msgid "Destra"
+msgstr ""
+
+#: customizer/customizer.php:37
+msgid "Banner text (empty = no banner)"
+msgstr ""
+
+#: customizer/customizer.php:42
+msgid "E.g. Black Friday -40%"
+msgstr ""
+
+#: customizer/customizer.php:54
+msgid "Banner URL (empty = no URL)"
+msgstr ""
+
+#: customizer/customizer.php:71
+msgid "Show Search bar"
+msgstr ""
+
+#: customizer/customizer.php:86
+msgid "Search Only Products"
+msgstr ""
+
+#: customizer/customizer.php:104
+msgid "Show Border"
+msgstr ""
+
+#: customizer/customizer.php:117
+msgid "Show Shadow"
+msgstr ""
+
+#: customizer/customizer.php:134
+msgid "Header Background"
+msgstr ""
+
+#: customizer/customizer.php:149
+msgid "Header Text Color"
+msgstr ""
+
+#: customizer/customizer.php:162
+msgid "Link Color"
+msgstr ""
+
+#: customizer/customizer.php:175
+msgid "Link Color Hover"
+msgstr ""
+
+#: customizer/customizer.php:188
+msgid "Button Background"
+msgstr ""
+
+#: customizer/customizer.php:201
+msgid "Button bg hover"
+msgstr ""
+
+#: customizer/customizer.php:214
+msgid "Button text color"
+msgstr ""
+
+#: customizer/customizer.php:227
+msgid "Footer Background Color"
+msgstr ""
+
+#: customizer/customizer.php:240
+msgid "Footer Text Color"
+msgstr ""
+
+#: customizer/customizer.php:250
+msgid "Font"
+msgstr ""
+
+#: customizer/customizer.php:262
+msgid "Font name"
+msgstr ""
+
+#: customizer/patterns.php:7
+msgid "simplexp - Cover Section Fullwidth"
+msgstr ""
+
+#: customizer/patterns.php:8
+msgid "Cover section with background image and text and call to action."
+msgstr ""
+
+#: customizer/patterns.php:59
+msgid "simplexp - Banner Fullwidth"
+msgstr ""
+
+#: customizer/patterns.php:60
+msgid "Fullwidth banner with a title and a description."
+msgstr ""
+
+#: customizer/patterns.php:81
+msgid "simplexp - Services"
+msgstr ""
+
+#: customizer/patterns.php:82
+msgid "A simple service section with title, description and one card for each service."
+msgstr ""
+
+#: customizer/patterns.php:167
+msgid "simplexp - Buttons"
+msgstr ""
+
+#: customizer/patterns.php:168
+msgid "Two buttons, one filled the other outlined"
+msgstr ""
+
+#: customizer/patterns.php:185
+msgid "simplexp - Hero Fullwidth"
+msgstr ""
+
+#: customizer/patterns.php:186
+msgid "A fullwidth hero with an image a title, description and call to action."
+msgstr ""
+
+#: customizer/patterns.php:217
+msgid "simplexp - Hero"
+msgstr ""
+
+#: customizer/patterns.php:218
+msgid "A hero with an image a title, description and a call to action."
+msgstr ""
+
+#: customizer/patterns.php:249
+msgid "simplexp - Contacts Section"
+msgstr ""
+
+#: customizer/patterns.php:250
+msgid "Contact section with cards and icons for telephone, email and address"
+msgstr ""
+
+#: customizer/patterns.php:327
+msgid "simplexp - Final CTA"
+msgstr ""
+
+#: customizer/patterns.php:328
+msgid "Last CTA block with title description and CTA button"
+msgstr ""
+
+#: customizer/patterns.php:351
+msgid "simplexp - FAQ section"
+msgstr ""
+
+#: customizer/patterns.php:352
+msgid "Frequentlly asked questions section."
+msgstr ""
+
+#: customizer/patterns.php:441
+msgid "simplexp - Testimonials section"
+msgstr ""
+
+#: customizer/patterns.php:442
+msgid "Testimonials section with cards rounded image title and description."
+msgstr ""
+
+#: customizer/patterns.php:573
+msgid "simplexp - About Us section"
+msgstr ""
+
+#: customizer/patterns.php:574
+msgid "About us with title description and cards with icons."
+msgstr ""
+
+#: footer.php:41
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:76
+msgid "Header"
+msgstr ""
+
+#: functions.php:77
+msgid "Header Addons"
+msgstr ""
+
+#: functions.php:85
+msgid "Italic Code"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer"
+msgstr ""
+
+#: functions.php:155
+msgid "Widget area for the footer."
+msgstr ""
+
+#: functions.php:164
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:166
+msgid "Widget area for the Shop."
+msgstr ""
+
+#: functions.php:189
+msgid "Account"
+msgstr ""
+
+#: functions.php:190
+msgid "Cart"
+msgstr ""
+
+#: functions.php:191
+msgid "Exit"
+msgstr ""
+
+#: functions.php:195
+msgid "Login"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to Content"
+msgstr ""
+
+#: index.php:20
+msgid "Result for:"
+msgstr ""
+
+#: index.php:71
+#: page.php:37
+#: single.php:111
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: page.php:30
+#: single.php:54
+msgid "Read More..."
+msgstr ""
+
+#: searchform.php:11
+msgid "Try to search something:"
+msgstr ""
+
+#: single.php:57
+msgid "Pages:"
+msgstr ""
+
+#: single.php:86
+msgid "Related Post"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra large"
+msgstr ""

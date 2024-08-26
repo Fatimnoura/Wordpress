@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "spacing": {
+      "padding": true,
+      "margin": true,
+      "units": [ "px", "%", "rem", "em", "vh", "vw" ]
+    },
+    "typography": {
+      "lineHeight": true,
+      "fontStyle": true,
+      "fontWeight": true,
+      "fontSizes": [
+          { "slug": "extra-small", "size": "1rem", "name": "Extra small" },
+          { "slug": "small", "size": "1.5rem", "name": "Small" },
+          { "slug": "medium", "size": "2.3rem", "name": "Medium" },
+          { "slug": "large", "size": "3.3rem", "name": "Large" },
+          { "slug": "extra-large", "size": "5rem", "name": "Extra large" },
+          { "slug": "extra-extra-large", "size": "7rem", "name": "Extra Extra large" }
+      ]
+    }
+  },
+  "styles": {
+    "elements": {
+      "h1": {
+        "typography": { "fontSize": "3.5rem" }
+      },
+      "h2": {
+        "typography": { "fontSize": "2.4rem" }
+      },
+      "h3": {
+        "typography": { "fontSize": "1.8rem" }
+      },
+      "h4": {
+        "typography": { "fontSize": "1.3rem" }
+      },
+      "h5": {
+        "typography": { "fontSize": "1rem" }
+      }
+    },
+    "blocks": {
+      "core/button": {
+        "spacing": {
+          "padding": {
+            "top": "14px",
+            "right": "25px",
+            "bottom": "14px",
+            "left": "25px"
+          },
+          "margin": {
+            "top": "0px",
+            "bottom": "0px"
+          }
+        }
+      }
+    }
+  }
+}
